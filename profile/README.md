@@ -16,7 +16,6 @@
   <a href="https://www.npmjs.com/package/@novu/node">
     <img src="https://img.shields.io/npm/dm/@novu/node" alt="npm downloads">
   </a>
-  <img src="https://img.shields.io/github/license/novuhq/novu" alt="MIT">
 </p>
 
 <h1 align="center">The open-source notification infrastructure for developers</h1>
@@ -27,6 +26,6 @@ The ultimate service for managing multi-channel notifications with a single API.
 
   <p align="center">
     <br />
-    <a href="https://github.com/novuhq/novu/" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
+    <a href="https://go.novu.co/github?utm_campaign=gh_org_profile" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
     <br />
   </p>
