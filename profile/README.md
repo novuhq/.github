@@ -26,6 +26,6 @@ The ultimate service for managing multi-channel notifications with a single API.
 
   <p align="center">
     <br />
-    <a href="https://go.novu.co/github?utm_campaign=gh_org_profile" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
+    <a href="https://github.novu.co?utm_campaign=gh_org_profile&utm_source=github" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
     <br />
   </p>
