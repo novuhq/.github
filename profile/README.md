@@ -10,9 +10,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@novu/node">
-    <img src="https://img.shields.io/npm/v/@novu/node" alt="NPM">
+   <a href="https://www.producthunt.com/products/novu">
+    <img src="https://img.shields.io/badge/Product%20Hunt-Golden%20Kitty%20Award%202023-yellow" alt="Product Hunt">
   </a>
+  <a href="https://news.ycombinator.com/item?id=38419513"><img src="https://img.shields.io/badge/Hacker%20News-%231-%23FF6600" alt="Hacker News"></a>
   <a href="https://www.npmjs.com/package/@novu/node">
     <img src="https://img.shields.io/npm/dm/@novu/node" alt="npm downloads">
   </a>
