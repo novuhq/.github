@@ -19,10 +19,10 @@
   </a>
 </p>
 
-<h1 align="center">The open-source notification infrastructure for developers</h1>
+<h1 align="center">The <Inbox /> infrastructure for modern products</h1>
 
 <div align="center">
-The ultimate service for managing multi-channel notifications with a single API.
+The notification platform that turns complex multi-channel delivery into a single <Inbox /> component. Built for developers, designed for growth, powered by open source.
 </div>
 
   <p align="center">
