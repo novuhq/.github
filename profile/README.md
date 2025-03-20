@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h1 align="center">The `<Inbox />` infrastructure for modern products</h1>
+<h1 align="center">The Inbox infrastructure for modern products</h1>
 
 <div align="center">
 The notification platform that turns complex multi-channel delivery into a single <Inbox /> component. Built for developers, designed for growth, powered by open source.
